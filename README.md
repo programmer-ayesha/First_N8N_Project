@@ -4,7 +4,6 @@ An **AI Agent** powered by **n8n + Google Sheets** that helps you **track, manag
 This system can tell you what items are available, automatically update stock when a purchase happens, and append new records seamlessly.
 
 ---
-
 ## 🚀 Features
 
 ✅ Check available items in your inventory.
@@ -58,8 +57,6 @@ This system can tell you what items are available, automatically update stock wh
 * Small businesses to manage product stock.
 * Freelancers selling digital/physical items.
 * Startup founders looking for a quick inventory automation system.
-
----
 
 ## 📢 Author
 
